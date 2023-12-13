@@ -175,7 +175,7 @@ La capa de Acceso a Datos o *Data Access Layer* interactúa directamente con la 
 ```console
 /api/get/ingredient
 ```
-![Get Ingredientes](imgs\get_ingredients.png)
+![Get Ingredientes](imgs/get_ingredients.png)
 
 ### *POST ADD* y *GET* a recetas
 
@@ -201,7 +201,7 @@ La capa de Acceso a Datos o *Data Access Layer* interactúa directamente con la 
 ```console
 /api/get/recipe
 ```
-![Get Recipe](imgs\get_recipes.png)
+![Get Recipe](imgs/get_recipes.png)
 
 ### *POST ADD* y *GET* a plan alimenticio
 
@@ -232,4 +232,4 @@ La capa de Acceso a Datos o *Data Access Layer* interactúa directamente con la 
 /api/get/mealplan
 ```
 
-![Get Recipe](imgs\get_mealplans.png)
+![Get Recipe](imgs/get_mealplans.png)
