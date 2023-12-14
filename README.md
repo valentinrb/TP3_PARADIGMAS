@@ -3,7 +3,7 @@ Paradigmas de Programación - 2023 - Trabajo Práctico III
 # Trabajo Práctico N°3 - Implementación de una _Rest API_ para un plan de comidas en lenguaje *Rust* utilizando *framework Rocket*.
 
 > [!NOTE]
-> Por cuestiones de tiempo se tomaron simplificaciones en la base de datos, mensajes intuitivos a los usuarios y logs. Tener que cuenta que es una aplicación orientada al aprendizaje.
+> Por cuestiones de tiempo se tomaron simplificaciones en la base de datos, mensajes intuitivos a los usuarios y logs. Tener en cuenta que es una aplicación orientada al aprendizaje.
 
 ## Autores
 
